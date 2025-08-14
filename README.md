@@ -1,3 +1,3 @@
 LISTA DE NOMBRE
 =================
-Jose Viejo Huerta
+José Viejo Huerta
